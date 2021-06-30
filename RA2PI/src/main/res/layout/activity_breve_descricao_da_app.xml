@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Breve_descricao_da_app">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="365dp"
+        android:layout_height="494dp"
+        android:text="Esta app consiste na junção das spikes anteriores, nomeadamente leitura do Qr Code, a implementação de tarefas e uma navegação pelas setas, por voz ou ao clicar na respetiva funcionalidade. Para ativar a leitura do QR code, o utilizador deve premir o respetivo botão da funcionalidade, clicar na seta para a esquerda, ou ativar o microfone, se este encontrar-se desativado (premir ENTER), e dizer Escan. Para ativar a implementação de tarefas, o utilizador deve premir o respetivo botão da funcionalidade, clicar na seta para cima, ou ativar o microfone, se este encontrar-se desativado (premir ENTER), e dizer Tarefas. Para voltar ao emu anterior prima ENTER"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.347"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.641" />
+</androidx.constraintlayout.widget.ConstraintLayout>

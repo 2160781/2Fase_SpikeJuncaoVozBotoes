@@ -1,0 +1,2 @@
+include ':RA2PI'
+rootProject.name = "SplashScreen"
