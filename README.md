@@ -22,6 +22,6 @@ Por outro lado é possivel efetuar o LogOut ao premir o seu botão.".
 A leitura do QR code é ativada quando o utilizador deve premir o respetivo botão da funcionalidade, clicar na seta para a esquerda, 
 ou ativar o microfone, se este encontrar-se desativado (premir ENTER), e dizer Escan. 
 
-A implementação de tarefas é ativada quando o utilizador deve premir o respetivo botão da funcionalidade, clicar na seta para cima, 
+As tarefas são ativadas quando o utilizador prime o respetivo botão da funcionalidade, clicar na seta para cima, 
 ou ativar o microfone, se este encontrar-se desativado (premir ENTER), e dizer Tarefas. 
 
